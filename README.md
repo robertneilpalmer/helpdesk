@@ -15,7 +15,7 @@
   <img
     src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
     alt="LinkedIn badge (links to GitHub)"
-    style="width:48px;height:48px;display:inline-block;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.15);transition:transform .12s ease;"
+    style="width:48px;height:48px;display:inline-block;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,255,0.5);transition:transform .12s ease;"
     onmouseover="this.style.transform='translateY(-3px) scale(1.04)';"
     onmouseout="this.style.transform='none';"
   />
