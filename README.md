@@ -10,3 +10,16 @@
 <a href="https://drive.google.com/file/d/1dRS1HLYktAfRsJdUHrWmM1tGkZHtVEtC/view?usp=drive_link">Google IT Certificate</a><br>
 
 <h2>Connect with me:</h2>
+<!-- Replace the href value with your GitHub profile URL -->
+<a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer" title="View my GitHub">
+  <img
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+    alt="LinkedIn badge (links to GitHub)"
+    style="width:48px;height:48px;display:inline-block;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.15);transition:transform .12s ease;"
+    onmouseover="this.style.transform='translateY(-3px) scale(1.04)';"
+    onmouseout="this.style.transform='none';"
+  />
+</a>
+
+   
+    
