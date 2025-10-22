@@ -11,7 +11,7 @@
 
 <h2>Connect with me:</h2>
 <!-- Replace the href value with your GitHub profile URL -->
-<a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer" title="View my GitHub">
+<a href="https://www.linkedin.com/in/robert-neil-palmer/" target="_blank" rel="noopener noreferrer" title="View my GitHub">
   <img
     src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
     alt="LinkedIn badge (links to GitHub)"
