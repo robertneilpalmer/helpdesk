@@ -4,8 +4,8 @@
 <h2>Help Desk Projects</h2>
 <a href="https://youtu.be/Cd7QkXNfBrc">8GB to 16GB RAM upgrade</a><br><br>
 <a href="https://youtu.be/bbxhE3f3WY0">Active Directory Install</a><br><br>
-<a href="https://blankwhitescreen.com/" target="_blank">Active Directory OU's</a><br><br>
-<a href="https://blankwhitescreen.com/" target="_blank">Python lab coming....</a>
+<a href="https://blankwhitescreen.com/" target="_blank">Active Directory OU's coming soon...</a><br><br>
+<a href="https://blankwhitescreen.com/" target="_blank">Python lab coming soon...</a>
 
 <h2>Certifications</h2>
 <a href="https://drive.google.com/file/d/1dRS1HLYktAfRsJdUHrWmM1tGkZHtVEtC/view?usp=drive_link">Google IT Certificate</a><br>
